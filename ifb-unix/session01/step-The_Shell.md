@@ -2,7 +2,15 @@ The Shell is a software that handles Unix instructions. It is now commonly used 
 
 To access the Shell's powerful features, you need to learn a new way of thinking and a new language.
 
->>Are you ready to learn Shell? (select "Yes" to continue!) <<
+<!-- >>Are you ready to learn Shell? (select "Yes" to continue!) <<
 (*) Yes
-( ) No
+( ) No -->
 
+Are you ready to learn Shell? (select "Yes" to continue!)
+- [ ] A. Yes
+- [ ] B. No
+- [ ] C. Never
+<details>
+  <summary>Answer</summary>
+  <p><b>A</b></p>
+</details>
